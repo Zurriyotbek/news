@@ -1,0 +1,18 @@
+.header {
+  padding: 14px;
+  background-color: #393939;
+}
+
+.header-link {
+  margin: 0;
+  padding: 15px 25px;
+  text-decoration: none;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 30px;
+  color: #ffffff;
+}
+
+.active {
+  background-color: coral;
+}

@@ -1,0 +1,13 @@
+.home {
+  padding: 20px;
+  margin: 0 auto;
+  max-width: 1800px;
+}
+
+.card {
+  margin: 10px;
+}
+
+.home-header {
+  text-align: center;
+}
