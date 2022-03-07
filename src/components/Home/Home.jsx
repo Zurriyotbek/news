@@ -1,11 +1,11 @@
-import { Grid, Typography } from "@material-ui/core";
+import { Grid } from "@material-ui/core";
 import React, { useEffect, useState } from "react";
 import "../Home/Home.css";
 import Card from "../Card/Card";
 
 const Home = () => {
   const Api_Key = "f5cb65722e6a486f809ba6a8075ae0f2";
-  const newsType = "techcrunch";
+  // const newsType = "techcrunch";
 
   const [news, setNews] = useState([]);
 
